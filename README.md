@@ -1,11 +1,3 @@
-//
-Hi Arpitha,
+MAM 337 - We reached out to Rebecca and provided her with a VCPM PHP-based image agent inquiry. We are waiting for her response.
 
-Following our recent upgrades to Controller v23.4.0 and EUM v23.8.0.4, we've encountered a new issue (screenshot attached). 
-
-Could you please provide any relevant links or references? We're actively working on a resolution and will schedule a meeting if required.
-
-Appreciate your support.
-
-Thanks,
-Sayed
+MAM 357 - We have re-provisioned the EUM license. But the REAL USERS (Experience Journey Map, Sessions, Analyze, JavaScript Errors) and SYNTHETIC (Sessions, Pages) are missing in the EUM Browser. we will connect again AppD Support to resolve this issue
