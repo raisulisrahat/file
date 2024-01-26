@@ -1,5 +1,6 @@
 //
 
+How To Instrument New Application In AppD
 Instrumenting an application with AppDynamics involves configuring the AppDynamics agent and integrating it into the deployment process. Here's a step-by-step guide based on the provided overview:
 Step 1: Prepare AppD Base Image
 Ensure that the AppDynamics agent is installed on the AppD base image. This image should serve as the foundation for deploying your application.
