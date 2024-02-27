@@ -1,9 +1,11 @@
 //
 
-Yesterday
-MAM 385: Waiting for the CCB team to resize the Disk Space for AppD Sandbox environments [Link]
-MAM 388: Review the generated EUM Snippet for VCM ticket [Link]
+Hi Wes,
 
-Today.
-MAM 385: CCB resizes the disk space. We will update the ECCB 7584 tickets and submit them to close the ticket. [Link]
-MAM 385: Reinstalling the ES component. [Link]
+We have completely installed the AppD Enterprices Console version 23.4.0-10019 and the Events Services version 23.4.0-148. But the Enterprise Console can't start the Events Service. It returns an error that says connection refused.
+
+Please see the attached event service logs and configuration file.
+
+Thanks
+Sayed
+
