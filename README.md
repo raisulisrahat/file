@@ -1,8 +1,23 @@
 //
+Analytics Dashboard modify permission for Chris
+
+Hi Josh,
+Please grant Chris permission to modify the analytics dashboard on the AppDynamics (AppD) production environment. He's currently encountering this error:
+[ID000458: The current Identity 'VACOHollaC' does not have permission to do this. (action: EDIT entity: DASHBOARD 1130)]
+He needs permission to add metrics to the analytics dashboard. 
+Thanks,
+Sayed
+
 
 
 Yesterday:
-MAM 385: We have read the AppD Event Services logs. It shows Event Services connection refused.
+
+I've submitted a ticket with AppD Support regarding the ES connection refused.  [MAM 385]
+Brian and I had a session. He need an API key in order to access AppD data through Grafana.
+
 
 Today:
-MAM 385: Creating a new AppD support ticket for ES connection refused. We will resolve the issue.
+
+I am reviewing the AppD support reply. 
+I will work the provided next steps as long as possible
+
