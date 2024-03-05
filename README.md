@@ -1,6 +1,5 @@
 //
 
-Daily Status:
 Yesterday:
 
 Successfully configured Events Service to run with a non-root user via CLI.
