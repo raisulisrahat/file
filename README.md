@@ -1,15 +1,6 @@
 //
 
-Daily Status:
-Yesterday:
-
-When we reinstalled Events Service, it was running as a non-root user through the Enterprise Console. However, the cluster's health is unknown.
-Events Service can't connect to the 9080 port.
-
-Today:
-I've identified a method to install the Events Service on a non-root user. The plan is to create a non-root user on the server, configure it, and then allow the root user to SSH into the non-root user to install and start the Events Service.
-
-Blockers: None
+Hi Eric, we attempted to include the public key of the user Sayed.Rahman in the authorized_keys file of the Elasticsearch user. However, when attempting to SSH from Sayed.Rahman to Elasticsearch, it continues to prompt for a password. The same issue arises when SSHing from the root user to Elasticsearch, even after injecting the root user's SSH key into the authorized_keys file of Elasticsearch.
 
 
 
