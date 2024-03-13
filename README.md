@@ -1,6 +1,12 @@
-//
+Yesterday:
+Collaborated with Eric to troubleshoot the SSH connection problem.
+Resolved the SSH connection issue, but discovered the EC instance isn't suitable for running ES.
+Submitted an ECCB ticket requesting an additional instance to deploy ES.
 
-Hi Eric, we attempted to include the public key of the user Sayed.Rahman in the authorized_keys file of the Elasticsearch user. However, when attempting to SSH from Sayed.Rahman to Elasticsearch, it continues to prompt for a password. The same issue arises when SSHing from the root user to Elasticsearch, even after injecting the root user's SSH key into the authorized_keys file of Elasticsearch.
+Today:
+Follow up on the ECCB ticket for the ES instance.
+Focus on completing task MAM-388.
+
 
 
 
