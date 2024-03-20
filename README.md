@@ -1,14 +1,13 @@
 //
 
-Yesterday:
-Setting up an Events Service properties file with controller details.
-Collaborated with Jonathan to access a new instance.
+Yesterday
+Meeting: PMR
 Reviewed the AppD Prod Controller MAP application.
-Additional Request for ECCB 7786 ticket firewall port enabling
+Sandbox EC configuration backup
+Collaborated with Jonathan to ECCB 7786 ticket update
 
 Today:
-Meeting: PMR
-Reviewing the AppD Prod Controller MAP application.
-Sandbox EC configuration backup
+Meeting: PMR, Internal SRE/AppD Review & Planning
+Review AppD Prod Controller MAP application.
 
-Blocker: Completing the MAM 385
+Blocker: ECCB 7786 - Can't install ES until the Instance is ready
