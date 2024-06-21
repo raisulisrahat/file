@@ -13,5 +13,4 @@ Blockers:
 Unable to start ES for the ES ports getting issues. we are  [ECCB-8254]
 
 
-
-https://localhost:8090/controller/restui/transactionConfigProto/createScope?applicationId=
+curl --user admin: localhost:8090/controller/healthrules/40?name=MyCustomHealthRule
