@@ -1,16 +1,14 @@
 //
 
 Yesterday:
-
-Combined JVM health rule on the AppD Prod MAP applications (MAP-cocytus-services-v1-2313, MAP-cms-schedule-service-v1-2313, MAP-codeable-concept-resources-v2-2313).
+Meeting: AppD Restructure 
+Working with Denson and Robin to configure sandbox import and Export Health Rules API 
 Reviewed the AppD PreProd and Prod Controller MAP apps
-
+Reinstall Events Services on the ES instance
 Today:
-Meeting: AppD Restructure
-Reinstall 
+Meeting: AppD Restructure, AppD Weekly Checkpoint
+Continue working to re-install ES and fix the SELinux ports block issue.
+Continue working to combine JVM health rules with the MAP applications. [MAM-384]
 Reviewing the AppD PreProd and Prod Controller MAP apps.
 Blockers: 
-Unable to start ES for the ES ports getting issues. we are  [ECCB-8254]
-
-
-curl --user admin: localhost:8090/controller/healthrules/40?name=MyCustomHealthRule
+None
