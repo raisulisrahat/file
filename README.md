@@ -12,3 +12,6 @@ Continue working to combine JVM health rules with the MAP applications. [MAM-384
 Reviewing the AppD PreProd and Prod Controller MAP apps.
 Blockers: 
 None
+
+
+https://docs.appdynamics.com/appd/23.x/latest/en/application-monitoring/install-app-server-agents/java-agent/administer-the-java-agent/java-agent-configuration-properties#id-.JavaAgentConfigurationPropertiesv23.11-NodeName
