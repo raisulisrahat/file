@@ -1,2 +1,12 @@
 //
-After consulting with Jonathan, we learned that the Sandbox and Events Service instances are being upgraded to RHEL 8. We might encounter errors when starting the Controller after the upgrade is complete. This is likely because we are already experiencing some permission-related errors on the Events Service instance, which is running on RHEL 8.
+Yesterday:
+Meeting: AppD Restructure, AppD Weekly Checkpoint
+FapolicyD has been configured properly. Events Service starts even when the FapolicyD is running.
+Reviewed the AppD PreProd and Prod Controller MAP apps
+Today:
+Continue working to fix the firewall ports block issue.
+Continue working to combine JVM health rules with the MAP applications. [MAM-384]
+Reviewing the AppD PreProd and Prod Controller MAP apps.
+Blockers: 
+None
+
