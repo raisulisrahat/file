@@ -1,12 +1,14 @@
 //
 Yesterday:
-Meeting: AppD Restructure, AppD Weekly Checkpoint
-FapolicyD has been configured properly. Events Service starts even when the FapolicyD is running.
-Reviewed the AppD PreProd and Prod Controller MAP apps
+Meeting:Internal SRE/ AppD Planning & Review
+Fine-tuned Fapolicyd to include additional permissions required by the Events Service and Elasticsearch.
+Reinstalled the Events Service, which is now reporting as HEALTHY. The configuration to connect it to the Controller is pending.
+
 Today:
-Continue working to fix the firewall ports block issue.
-Continue working to combine JVM health rules with the MAP applications. [MAM-384]
-Reviewing the AppD PreProd and Prod Controller MAP apps.
-Blockers: 
-None
+Meeting: AppD Restructure Session
+Noticed that the Firewall and SELinux configurations reset the modifications I made today by the next day. Need to review these settings properly and create a ticket to make the Firewall and SELinux changes permanent.
+Reviewing the AppD PreProd and Prod Controller MAP applications.
+
+Blockers:
+- None
 
