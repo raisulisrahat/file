@@ -14,8 +14,7 @@ None
 
 
 
-JIRA
 
 Title: Duplicate JVM health rule deletion 
 
-Description: We need to remove the duplicate MAP application health Rules. Since we have combined the JVM Garbage collection and the Thread count on the health rule of the AppD Prod MAP application
+Description: We need to remove the duplicate MAP application health Rules. We paired combine JVM garbage collection and thread count on the AppD Prod MAP application's health rule.
