@@ -1,6 +1,6 @@
 //
 
 
-We asked them how do they manage the AppD configurations for DotNet Linux agent, that we can help them enable thread correlation, which will enable the agent detect the async exit points
+We have included a column "Machine Agent Extensions / Custom Metrices" in side the server details tab.
 
 
