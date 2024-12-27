@@ -13,7 +13,7 @@ Attach files <AppDynamicsConfig.json>
 Add `custom-correlation.xml` file
 Attach files <custom-correlation.xml>
 
-For more reference: link
+For more reference: link https://docs.appdynamics.com/appd/21.x/21.2/en/application-monitoring/install-app-server-agents/net-agent/net-microservices-agent/appdynamicsconfig-json-file
 `
 If you require any assistance you can ping me on Teams. 
 
